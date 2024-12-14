@@ -25,3 +25,9 @@ Activate environment
 ```bash
 conda activate ENV_NAME
 ```
+
+Install pip package
+
+```bash
+pip install PACKAGE_NAME
+```
